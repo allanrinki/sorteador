@@ -1,0 +1,10 @@
+E:\Area de Trabalho\TADS\Terceiro Ano\Topicos em TI\Programas em C#\Atividade1\Atividade1\bin\Debug\Atividade1.exe.config
+E:\Area de Trabalho\TADS\Terceiro Ano\Topicos em TI\Programas em C#\Atividade1\Atividade1\bin\Debug\Atividade1.exe
+E:\Area de Trabalho\TADS\Terceiro Ano\Topicos em TI\Programas em C#\Atividade1\Atividade1\bin\Debug\Atividade1.pdb
+E:\Area de Trabalho\TADS\Terceiro Ano\Topicos em TI\Programas em C#\Atividade1\Atividade1\obj\Debug\Atividade1.csprojAssemblyReference.cache
+E:\Area de Trabalho\TADS\Terceiro Ano\Topicos em TI\Programas em C#\Atividade1\Atividade1\obj\Debug\Atividade1.Form1.resources
+E:\Area de Trabalho\TADS\Terceiro Ano\Topicos em TI\Programas em C#\Atividade1\Atividade1\obj\Debug\Atividade1.Properties.Resources.resources
+E:\Area de Trabalho\TADS\Terceiro Ano\Topicos em TI\Programas em C#\Atividade1\Atividade1\obj\Debug\Atividade1.csproj.GenerateResource.cache
+E:\Area de Trabalho\TADS\Terceiro Ano\Topicos em TI\Programas em C#\Atividade1\Atividade1\obj\Debug\Atividade1.csproj.CoreCompileInputs.cache
+E:\Area de Trabalho\TADS\Terceiro Ano\Topicos em TI\Programas em C#\Atividade1\Atividade1\obj\Debug\Atividade1.exe
+E:\Area de Trabalho\TADS\Terceiro Ano\Topicos em TI\Programas em C#\Atividade1\Atividade1\obj\Debug\Atividade1.pdb
